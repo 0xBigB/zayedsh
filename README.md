@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zayedsharyf
-- 👀 I’m interested in ethical hacking and network security
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on ethical hacking and bugbounty
-- 📫 How to reach me zayedsharyf@gmail.com
+- 👋 Hi, I’m Zayed Shareef, goes by the name Mr Bandit
+- 👀 I’m interested in Ethical Hacking and Network Security
+- 🌱 I’m currently learning Ethical Hacking and Penetration Testing
+- 💞️ I’m looking to collaborate on Ethical Hacking and Penetration Testing
+- 📫 Reach me on twitter (@zayedsh_)
 
 <!---
 zayedsh/zayedsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
